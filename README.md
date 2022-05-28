@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="egoistdeveloper" /> </p>
 
+<a href="https://wakatime.com/@e35b9bbe-85a9-44d1-b7b5-590e38aab64f"><img src="https://wakatime.com/badge/user/e35b9bbe-85a9-44d1-b7b5-590e38aab64f.svg" alt="Total time coded since Jul 2 2018" /></a>
+
 <br>
 
 - 🔭 I’m currently working on [laravel-ready](https://github.com/laravel-ready)
@@ -38,7 +40,5 @@
 ![EgoistDeveloper's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=egoistdeveloper&)
 
 ![EgoistDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgoistDeveloper&show_icons=true&count_private=true)
-
-[![EgoistDeveloper's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EgoistDeveloper)](https://github.com/EgoistDeveloper/EgoistDeveloper)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoistDeveloper&layout=compact)](https://github.com/EgoistDeveloper/EgoistDeveloper)
