@@ -189,11 +189,10 @@
 
 <hr>
 
+<p align="middle">
 
-![EgoistDeveloper's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=egoistdeveloper&)
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=EgoistDeveloper&show_icons=true&count_private=true" alt="streak-stats">
 
-![EgoistDeveloper's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=EgoistDeveloper&show_icons=true&count_private=true)
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=egoistdeveloper" alt="streak-stats">
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoistDeveloper&layout=compact)](https://github.com/EgoistDeveloper/EgoistDeveloper)
+</p>
