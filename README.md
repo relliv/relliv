@@ -191,8 +191,8 @@
 
 <p align="middle">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=EgoistDeveloper&show_icons=true&count_private=true" alt="streak-stats">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=EgoistDeveloper&show_icons=true&count_private=true" alt="streak-stats">
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=egoistdeveloper" alt="streak-stats">
+<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=egoistdeveloper" alt="streak-stats">
 
 </p>
