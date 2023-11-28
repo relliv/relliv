@@ -102,5 +102,6 @@
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=relliv" alt="streak-stats">
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=relliv&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=relliv)
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=relliv&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=relliv" alt="streak-stats">
+
 </p>
