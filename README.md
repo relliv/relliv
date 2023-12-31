@@ -106,22 +106,22 @@
 </p>
 
 
-### 2024 Goals Commits (Goal 20k)
+### 2024 Commits (Goal 20k)
 
 ![2024 Goals (Commits)](https://github-commit-counter.vercel.app/api/github-progress?username=relliv&year=2024&target=20000)
 </p>
 
-### 2023 Goals Commits (Goal 10k)
+### 2023 Commits (Goal 10k)
 
 ![2023 Goals (Commits)](https://github-commit-counter.vercel.app/api/github-progress?username=relliv&year=2023&target=10000)
 </p>
 
-### 2022 Goals Commits (Goal 5k)
+### 2022 Commits (Goal 5k)
 
 ![2022 Goals (Commits)](https://github-commit-counter.vercel.app/api/github-progress?username=relliv&year=2022&target=5000)
 </p>
 
-### 2021 Goals Commits (Goal 1k)
+### 2021 Commits (Goal 1k)
 
 ![2021 Goals (Commits)](https://github-commit-counter.vercel.app/api/github-progress?username=relliv&year=2021&target=1000)
 </p>
