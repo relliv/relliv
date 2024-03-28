@@ -40,7 +40,7 @@
             alt="typescript" width="38" height="38" />
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs"
             width="38" height="38" />
     </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
@@ -58,7 +58,7 @@
             height="40" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
             alt="laravel" width="38" height="38" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
