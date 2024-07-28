@@ -34,7 +34,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 ### Backend
 
-<p align="left">
+<p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
     </a>
@@ -66,7 +66,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 ### Frontend
 
-<p align="left">
+<p>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/>
     </a>
@@ -96,7 +96,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
     </a>
 </p>
 
-<p align="left">
+<p>
     <img
         src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat"
         alt="egoistdeveloper" /> </p>
@@ -111,7 +111,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 ### Connect with me:
 
-<p align="left">
+<p>
     <a href="https://twitter.com/egoistdev" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -121,7 +121,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 ### Socials
 
-<p align="left">
+<p>
     <a href="https://discord.com/users/relliv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
 <br>
@@ -194,7 +194,6 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=relliv&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=relliv)
 </p>
-
 
 ### 2024 Commits (Goal 15k)
 
