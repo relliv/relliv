@@ -10,6 +10,16 @@ After 10 years, I'm a passionate full-stack developer (*where programming langua
 
 I ❤️ OSS and I'm producing/contributing open source projects.
 
+<p>
+    <img
+        src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat"
+        alt="egoistdeveloper" />
+</p>
+
+<a href="https://wakatime.com/@e35b9bbe-85a9-44d1-b7b5-590e38aab64f">
+    <img src="https://wakatime.com/badge/user/e35b9bbe-85a9-44d1-b7b5-590e38aab64f.svg" alt="Total time coded since Jul 2 2018" />
+</a>
+
 ## Tech Stack
 
 ### DevOps
@@ -95,17 +105,6 @@ I ❤️ OSS and I'm producing/contributing open source projects.
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
     </a>
 </p>
-
-<p>
-    <img
-        src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat"
-        alt="egoistdeveloper" /> </p>
-
-<a href="https://wakatime.com/@e35b9bbe-85a9-44d1-b7b5-590e38aab64f"><img
-        src="https://wakatime.com/badge/user/e35b9bbe-85a9-44d1-b7b5-590e38aab64f.svg"
-        alt="Total time coded since Jul 2 2018" /></a>
-
-<br>
 
 <hr style="margin: 20px 0px">
 
