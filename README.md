@@ -8,11 +8,13 @@ Hi <picture>
 
 After 10 years, I'm a passionate full-stack developer (*where programming languages, frameworks, and libraries are just tools to me*). I develop `low-code`/`no-code` tools and applications. My goal is to improve the development experience by simplifying, shortening, and accelerating repetitive processes.
 
+I ❤️ OSS and I'm producing/contributing open source projects.
+
 ## Tech Stack
 
 ### DevOps
 
-<p align="left">
+<p>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
@@ -104,11 +106,6 @@ After 10 years, I'm a passionate full-stack developer (*where programming langua
         alt="Total time coded since Jul 2 2018" /></a>
 
 <br>
-
-- 🔭 I’m currently working on [laravel-ready](https://github.com/laravel-ready)
-- 🌱 I’m currently learning **Go** and **UI/UX**
-- 🪴 See my [tailwind components](https://github.com/EgoistDeveloper/my-tailwind-components)
-- 💬 Ask me about **Angular, Nest, Typescript, Laravel, Go, etc.**
 
 <hr style="margin: 20px 0px">
 
