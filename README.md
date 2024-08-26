@@ -6,19 +6,16 @@ Hi <picture>
 </picture>, I'm Eyüp
 </h1>
 
-After 10 years, I'm a passionate full-stack developer (*where programming languages, frameworks, and libraries are just tools to me*). I develop `low-code`/`no-code` tools and applications. My goal is to improve the development experience by simplifying, shortening, and accelerating repetitive processes.
+After 10 years, I'm a passionate full-stack developer. I develop `low-code`/`no-code` tools and applications. My goal is to improve the development experience by simplifying, shortening, and accelerating repetitive processes.
 
 I ❤️ OSS and I'm producing/contributing open source projects.
 
 <p>
-    <img
-        src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat"
-        alt="egoistdeveloper" />
+    <img src="https://komarev.com/ghpvc/?username=egoistdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="egoistdeveloper" />
+    <a href="https://wakatime.com/@e35b9bbe-85a9-44d1-b7b5-590e38aab64f">
+        <img src="https://wakatime.com/badge/user/e35b9bbe-85a9-44d1-b7b5-590e38aab64f.svg" alt="Total time coded since Jul 2 2018" />
+    </a>
 </p>
-
-<a href="https://wakatime.com/@e35b9bbe-85a9-44d1-b7b5-590e38aab64f">
-    <img src="https://wakatime.com/badge/user/e35b9bbe-85a9-44d1-b7b5-590e38aab64f.svg" alt="Total time coded since Jul 2 2018" />
-</a>
 
 ## Tech Stack
 
@@ -26,19 +23,19 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 <p>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" height="32" alt="Linux" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" alt="Docker" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="32" height="32" alt="Amazon Web Services" />
     </a>
     <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="32" height="32" alt="Digital Ocean" />
     </a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="32" height="32" alt="Google Cloud" />
     </a>
 </p>
 
@@ -46,31 +43,31 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="32" height="32" alt="C#" />
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" height="32" alt="PHP" />
     </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" alt="NodeJS"/>
     </a>
     <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-    </a>
-    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="32" height="32" alt="NestJS" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="32" height="32" alt="Laravel" />
     </a>
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" />
+    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="32" height="32" alt="Go" />
     </a>
     <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="32" height="32" alt="Nuxtjs" />
     </a>
     <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="32" height="32" alt="NextJs" />
+    </a>
+    <a href="https://wordpress.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="32" height="32" alt="Wordpress" />
     </a>
 </p>
 
@@ -78,108 +75,48 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 <p>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" height="32" alt="TypeScript"/>
     </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="32" height="32" alt="Angular" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" alt="React" />
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="32" height="32" alt="Vue" />
     </a>
     <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="32" height="32" alt="Svelte" />
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="32" height="32" alt="Sass" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="32" height="32" alt="TailwindCSS" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="32" height="32" alt="Bootstrap" />
     </a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="32" height="32" alt="Vite" />
     </a>
 </p>
 
 <hr style="margin: 20px 0px">
 
-### Connect with me:
+### Contact
 
 <p>
     <a href="https://twitter.com/egoistdev" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="egoistdev" height="30" width="40" />
+            width="32" height="32" alt="egoistdev twitter" />
     </a>
-</p>
-
-### Socials
-
-<p>
-    <a href="https://discord.com/users/relliv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
-
-<br>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="38" height="38" />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs"
-            width="38" height="38" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="38" height="38" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="38" height="38" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="38" height="38" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-            alt="laravel" width="38" height="38" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="38" height="38" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="38" height="38" />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-            width="38" height="38" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-            alt="electron" width="38" height="38" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="38" height="38" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="38" height="38" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="38" height="38" />
+    <a href="https://discord.com/users/relliv" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+            width="32" height="32" alt="relliv discord" />
     </a>
 </p>
 
