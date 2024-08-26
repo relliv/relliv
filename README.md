@@ -122,6 +122,12 @@ I ❤️ OSS and I'm producing/contributing open source projects.
     </a>
 </p>
 
+<small>
+    <i>
+        Note: When sending a message, please state clearly why you are sending the message and your problem. Otherwise, I may mark it as spam.
+    </i>
+</small>
+
 <hr style="margin: 20px 0px">
 
 <p align="middle">
