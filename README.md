@@ -110,10 +110,10 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 ### Contact
 
 <p>
-    <a href="https://twitter.com/egoistdev" target="blank">
+    <a href="https://x.com/rellivdev" target="blank">
         <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            width="32" height="32" alt="egoistdev twitter" />
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+            width="30" height="30" alt="rellivdev twitter" />
     </a>
     <a href="https://discord.com/users/relliv" target="blank">
         <img align="center"
