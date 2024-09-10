@@ -107,7 +107,7 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 <hr style="margin: 20px 0px">
 
-### Contact
+### Contact/Profiles
 
 <p>
     <a href="https://x.com/rellivdev" target="blank">
@@ -118,6 +118,11 @@ I ❤️ OSS and I'm producing/contributing open source projects.
     <a href="https://discord.com/users/relliv" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+            width="32" height="32" alt="relliv discord" />
+    </a>
+    <a href="https://stackoverflow.com/users/6940144/relliv" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"
             width="32" height="32" alt="relliv discord" />
     </a>
 </p>
