@@ -21,7 +21,7 @@ I value clarity over speed and structure over shortcuts. I enjoy building comple
   <img src="assets/underline-white.svg" width="500" align="left" alt="—————————————————————————————">
 </picture>
 
-<br><br>
+<br><br><br>
 
 I ❤️ OSS and I'm producing/contributing open source projects.
 
