@@ -29,40 +29,40 @@ I ❤️ OSS and I'm producing/contributing open source projects.
 
 ## AI
 
-![Claude](https://go-skill-icons.vercel.app/api/icons?i=claude)
-![Gemini](https://go-skill-icons.vercel.app/api/icons?i=gemini)
-![ChatGPT](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)
+[![Claude](https://go-skill-icons.vercel.app/api/icons?i=claude)](https://claude.ai)
+[![Gemini](https://go-skill-icons.vercel.app/api/icons?i=gemini)](https://gemini.google.com)
+[![ChatGPT](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)](https://chat.openai.com)
 
 ## Frontend
 
-![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)
-![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)
-![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)
-![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)
-![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)
-![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)
-![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)
-![React](https://go-skill-icons.vercel.app/api/icons?i=react)
+[![Angular](https://go-skill-icons.vercel.app/api/icons?i=angular)](https://angular.dev)
+[![Vue](https://go-skill-icons.vercel.app/api/icons?i=vue)](https://vuejs.org)
+[![Tailwind CSS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)](https://tailwindcss.com)
+[![Electron](https://go-skill-icons.vercel.app/api/icons?i=electron)](https://www.electronjs.org)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev)
+[![Vitest](https://go-skill-icons.vercel.app/api/icons?i=vitest)](https://vitest.dev)
+[![Pinia](https://go-skill-icons.vercel.app/api/icons?i=pinia)](https://pinia.vuejs.org)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev)
 
 ## Backend
 
-![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)
-![Laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel)
-![Nuxt](https://go-skill-icons.vercel.app/api/icons?i=nuxt)
-![Astro](https://go-skill-icons.vercel.app/api/icons?i=astro)
-![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nestjs)
-![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)
-![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)
-![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb)
+[![PHP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net)
+[![Laravel](https://go-skill-icons.vercel.app/api/icons?i=laravel)](https://laravel.com)
+[![Nuxt](https://go-skill-icons.vercel.app/api/icons?i=nuxt)](https://nuxt.com)
+[![Astro](https://go-skill-icons.vercel.app/api/icons?i=astro)](https://astro.build)
+[![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nestjs)](https://nestjs.com)
+[![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)](https://www.postgresql.org)
+[![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)](https://www.mysql.com)
+[![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb)](https://www.mongodb.com)
 
 ## Devops
 
-![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)
-![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx)
-![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux)
-![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)
-![DigitalOcean](https://go-skill-icons.vercel.app/api/icons?i=digitalocean)
-![Google Cloud](https://go-skill-icons.vercel.app/api/icons?i=googlecloud)
+[![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
+[![Nginx](https://go-skill-icons.vercel.app/api/icons?i=nginx)](https://nginx.org)
+[![Linux](https://go-skill-icons.vercel.app/api/icons?i=linux)](https://kernel.org)
+[![AWS](https://go-skill-icons.vercel.app/api/icons?i=aws)](https://aws.amazon.com)
+[![DigitalOcean](https://go-skill-icons.vercel.app/api/icons?i=digitalocean)](https://www.digitalocean.com)
+[![Google Cloud](https://go-skill-icons.vercel.app/api/icons?i=googlecloud)](https://cloud.google.com)
 
 <hr style="margin: 20px 0px">
 
